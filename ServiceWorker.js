@@ -1,9 +1,9 @@
 const cacheName = "ASME.MEB.SekilBoyama-MEB - Şekil Boyama-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/27-Şekil Boyama.loader.js",
+    "Build/27-Şekil Boyama.framework.js",
+    "Build/27-Şekil Boyama.data",
+    "Build/27-Şekil Boyama.wasm",
     "TemplateData/style.css"
 
 ];
